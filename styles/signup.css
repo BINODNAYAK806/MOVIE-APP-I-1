@@ -1,0 +1,62 @@
+#slideshow{
+
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 20px;
+    color: #ff645a;
+
+     
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+#slideshow > div{
+
+    padding-right: 19px;
+    color: black;  
+        color: #ff645a;
+
+
+}
+
+#signup-form-div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* text-align: center; */
+    justify-content: center;
+    /* border: 5px solid rebeccapurple; */
+margin-left: 35%;
+margin-right: 35%;
+padding: 5%;
+padding-left: 9%;
+
+/* width: 60%; */
+/* height: 400%; */
+/* margin-top: 10%; */
+/* background-color: rgb(255, 187, 0); */
+font-size: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+
+
+}
+#signup-form-div > button{
+
+height: 20px;
+background-color: aqua;
+
+}
+
+#submit{
+
+    background-color: aquamarine;
+    font-size: 30px;
+    border-radius: 7px;
+    margin-top: 015%;
+    margin-left: 50px;
+
+}

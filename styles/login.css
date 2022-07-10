@@ -1,0 +1,23 @@
+#slideshow{
+
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 20px;
+    color: #ff645a;
+
+     
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+#slideshow > div{
+
+    padding-right: 19px;
+    color: black;  
+        color: #ff645a;
+
+
+}
